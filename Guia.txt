@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Texto modificado localmente
+=======
+Texto modificado en la web
+>>>>>>> 1bd1ab75c8547654a36f26c8347661dd7675c2f2
    git add .
    git commit -m "Commit inicial"
    git push origin main
